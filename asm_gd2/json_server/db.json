@@ -1,0 +1,71 @@
+{
+  "source": [
+    {
+      "id": 1,
+      "name": "Star Wars Ship 1",
+      "image": "sw1.jpg",
+      "description": "One of The most powerfull spaceships Ship in Star Wars "
+    },
+    {
+      "id": 2,
+      "name": "Star Wars Ship 2",
+      "image": "sw2.jpg",
+      "description": "One of The most powerfull spaceships Ship in Star Wars "
+    },
+    {
+      "id": 3,
+      "name": "Star Wars Ship 3",
+      "image": "sw3.jpg",
+      "description": "One of The most powerfull spaceships Ship in Star Wars "
+    },
+    {
+      "id": 4,
+      "name": "Star Wars Ship 4",
+      "image": "sw4.jpg",
+      "description": "One of The most powerfull spaceships Ship in Star Wars "
+    },
+    {
+      "id": 5,
+      "name": "Star Wars Ship 5",
+      "image": "sw5.jpg",
+      "description": "One of The most powerfull spaceships Ship in Star Wars "
+    },
+    {
+      "id": 6,
+      "name": "Star Wars Ship 6",
+      "image": "sw6.jpg",
+      "description": "One of The most powerfull spaceships Ship in Star Wars "
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "manhnvpc04369",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "username": "nvm",
+      "password": "321"
+    }
+  ],
+  "history": [
+    {
+      "username": "nvm",
+      "countdown": 13,
+      "level": 2,
+      "score": 6,
+      "id": 1
+    },
+    {
+      "username": "nvm",
+      "countdown": 9,
+      "level": 2,
+      "score": 6,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
